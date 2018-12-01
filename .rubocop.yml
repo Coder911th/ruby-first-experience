@@ -1,0 +1,8 @@
+Metrics/AbcSize: # Отключение ABC-проверок
+  Enabled: false
+Metrics/LineLength: # Максимальная длина строки 120
+  Max: 120
+Metrics/MethodLength: # Количество строк кода в методе 15
+  Max: 15
+Style/NegatedIf: # Не форсировать unless
+  Enabled: false
